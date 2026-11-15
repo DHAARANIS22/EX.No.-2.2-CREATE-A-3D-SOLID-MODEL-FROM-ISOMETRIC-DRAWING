@@ -42,7 +42,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 
 13. Select the **Extrude** tool and give the required thickness of 10 mm to create the base solid.
-    <img width="142" height="66" alt="Screenshot 2026-11-16 015045" src="https://github.com/user-attachments/assets/aa03fc66-ed36-48ba-a0a9-6963d4630e75" />
+    <img width="305" height="341" alt="Screenshot 2026-11-16 021239" src="https://github.com/user-attachments/assets/7841e8bb-68ee-4f36-bbee-b74b8b7ef95a" />
 
 
 15. Create another sketch on the required face and draw the vertical support profile using the Line tool.
